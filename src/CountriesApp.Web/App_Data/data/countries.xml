@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfCountry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>
+    <Id>af93e3ce-d989-40e4-8081-08b5b8a3e074</Id>
+    <Name>Polska</Name>
+    <Capital>Warszawa</Capital>
+  </Country>
+</ArrayOfCountry>

@@ -1,0 +1,9 @@
+﻿@model CountriesApp.Web.ViewModels.Countries.IndexViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@Html.Partial(MVC.Countries.Views.IndexTable, Model.Items)
